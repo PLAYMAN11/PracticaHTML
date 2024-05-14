@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+}
+.Yo{
+    border: 2px solid white;
+    border-radius: 10px;
+  padding-left: 10px;
+  padding-top: 1px;
+}
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 175px;
+}
