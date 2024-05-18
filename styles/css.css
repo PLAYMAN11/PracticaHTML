@@ -5,8 +5,11 @@ body{
 .Yo{
     border: 2px solid white;
     border-radius: 10px;
-  padding-left: 10px;
-  padding-top: 1px;
+    display: flex;
+}
+.Yo img{
+    
+    align-items: center;
 }
 img{
     border-radius: 50%;
